@@ -10,3 +10,4 @@ A simple voice assistant built with Python that can:
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   pip install --upgrade pip
